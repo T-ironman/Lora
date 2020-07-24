@@ -1,0 +1,48 @@
+Added Component: Designator=CON1(CON 1X3)
+Added Component: Designator=U1(STM32C8T6)
+Added Component: Designator=U2(LoraÄ£¿é)
+Added Component: Designator=U3(LM2576)
+Added Pin To Net: NetName=GND Pin=CON1-3
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetU1_5 Pin=U1-5
+Added Pin To Net: NetName=NetU1_5 Pin=U2-1
+Added Net: Name=NetU1_5
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Pin To Net: NetName=NetU1_6 Pin=U2-2
+Added Net: Name=NetU1_6
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_7 Pin=U2-3
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_8 Pin=U2-4
+Added Net: Name=NetU1_8
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Pin To Net: NetName=NetU1_9 Pin=U2-5
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU1_18 Pin=U1-18
+Added Pin To Net: NetName=NetU1_18 Pin=U2-6
+Added Net: Name=NetU1_18
+Added Pin To Net: NetName=NetU1_19 Pin=U1-19
+Added Pin To Net: NetName=NetU1_19 Pin=U2-7
+Added Net: Name=NetU1_19
+Added Pin To Net: NetName=NetU1_22 Pin=U1-22
+Added Pin To Net: NetName=NetU1_22 Pin=U3-3
+Added Net: Name=NetU1_22
+Added Pin To Net: NetName=NetU1_23 Pin=U1-23
+Added Pin To Net: NetName=NetU1_23 Pin=U3-4
+Added Net: Name=NetU1_23
+Added Pin To Net: NetName=OUT_USART1_RX Pin=CON1-1
+Added Pin To Net: NetName=OUT_USART1_RX Pin=U1-34
+Added Net: Name=OUT_USART1_RX
+Added Pin To Net: NetName=OUT_USART1_TX Pin=CON1-2
+Added Pin To Net: NetName=OUT_USART1_TX Pin=U1-35
+Added Net: Name=OUT_USART1_TX
+Added Pin To Net: NetName=VCC Pin=U3-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=lora Member=Component CON1 CON 1X3
+Added Member To Class: ClassName=lora Member=Component U1 STM32F103C8T6
+Added Member To Class: ClassName=lora Member=Component U2 Lora1268
+Added Member To Class: ClassName=lora Member=Component U3 LM2576
+Added Room: Name=lora
