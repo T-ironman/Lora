@@ -1,0 +1,10 @@
+Added Component: Designator=U2(LoraÄ£¿é)
+Added Pin To Net: NetName=NetU1_10 Pin=U2-1
+Added Pin To Net: NetName=NetU1_9 Pin=U2-2
+Added Pin To Net: NetName=OUT_USART2_TX Pin=U2-3
+Added Pin To Net: NetName=OUT_USART2_RX Pin=U2-4
+Added Pin To Net: NetName=NetU1_6 Pin=U2-5
+Added Pin To Net: NetName=NetU1_21 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Member To Class: ClassName=lora Member=Component U2 Lora1268
+Added Room: Name=lora
