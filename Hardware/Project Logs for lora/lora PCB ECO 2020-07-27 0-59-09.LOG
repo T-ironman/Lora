@@ -1,0 +1,8 @@
+Added Component: Designator=U4(micro)
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=5.0V Pin=U1-23
+Added Pin To Net: NetName=5.0V Pin=U3-4
+Added Pin To Net: NetName=5.0V Pin=U4-1
+Added Net: Name=5.0V
+Added Member To Class: ClassName=lora Member=Component U4 micro
+Added Room: Name=lora
